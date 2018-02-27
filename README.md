@@ -5,3 +5,5 @@ You can visit individual files for years to see conferences in that year. Below 
 
 1. EasyChair Smart CFPs for [Bioinformatics](https://easychair.org/cfp/topic.cgi?tid=148) and [computational biology](https://easychair.org/cfp/topic.cgi?tid=9402)
 2. [Conference-service.com](https://www.conference-service.com/index.html), conferences for [bioinformatics](https://www.conference-service.com/conferences/bioinformatics.html)
+3. [Kongre Uzmanı](http://www.kongreuzmani.com/)
+4. [conferenceseries.com](https://www.conferenceseries.com/), conferences on [bioinformatics](https://www.conferenceseries.com/search-results/bioinformatics)
