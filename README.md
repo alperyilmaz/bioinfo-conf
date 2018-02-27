@@ -7,3 +7,4 @@ You can visit individual files for years to see conferences in that year. Below 
 2. [Conference-service.com](https://www.conference-service.com/index.html), conferences for [bioinformatics](https://www.conference-service.com/conferences/bioinformatics.html)
 3. [Kongre Uzmanı](http://www.kongreuzmani.com/)
 4. [conferenceseries.com](https://www.conferenceseries.com/), conferences on [bioinformatics](https://www.conferenceseries.com/search-results/bioinformatics)
+5. [Conference Alerts](https://conferencealerts.com/index), conference on [bioinformatics](https://conferencealerts.com/topic-listing?topic=Bioinformatics), [genomics](https://conferencealerts.com/search?searchTerm=genomics)
